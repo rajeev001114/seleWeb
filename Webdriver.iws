@@ -5,7 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db7f0221-e356-44d6-a98c-f6e459363c65" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ParameterTestSuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Suites/ParameterSuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webdriver.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webdriver.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webdriver.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/listeners/WebDriverListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/listeners/tesng/TestNGListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testFiles/CheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testFiles/DragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testFiles/DropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testFiles/alertsAndPopup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testFiles/keyPress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testFiles/loginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testFiles/mouseHover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testFiles/multipleWindowHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testFiles/radioButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testFiles/scroll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testNG/DataProviderNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testNG/DependsOnGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testNG/DependsOnMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testNG/ParameterWithSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utility/Log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
