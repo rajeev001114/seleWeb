@@ -1,13 +1,9 @@
 package testFiles;
 
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 import pages.BaseClass;
-
-import java.util.concurrent.TimeUnit;
 
 public class loginTest extends BaseClass {
 
@@ -26,9 +22,9 @@ public class loginTest extends BaseClass {
         clearAndSet(uName, "Admin");
         clearAndSet(password, "admin123");
 
-        clickOnElementByXPATH("//button[@type='submit']");
+        clickOnElementByXPATH("//button[@type='submit']",driver );
         //waitUntillVisibilityOfelement("//button[@class='oxd-icon-button oxd-icon-button--success orangehrm-report-icon']");
-        clickOnElementByXPATH("//span[text()='Admin']");
+        clickOnElementByXPATH("//span[text()='Admin']",driver );
         waitUntillPageLoads(5);
     }
 }

@@ -1,15 +1,10 @@
 
 package testFiles;
 
-        import org.openqa.selenium.WebDriver;
         import org.openqa.selenium.WebElement;
-        import org.openqa.selenium.chrome.ChromeDriver;
-        import org.openqa.selenium.chrome.ChromeOptions;
         import org.testng.annotations.BeforeClass;
         import org.testng.annotations.Test;
         import pages.BaseClass;
-
-        import java.util.concurrent.TimeUnit;
 
 public class keyPress extends BaseClass {
 
@@ -22,7 +17,7 @@ public class keyPress extends BaseClass {
     @Test
     public void keyPress1() throws InterruptedException {
 
-        clickOnElementByXPATH("//a[text()='Key Presses']");
+        clickOnElementByXPATH("//a[text()='Key Presses']",driver );
 
         WebElement ele = findElementByXPATH("//input[@id='target']");
         keyPress(ele);

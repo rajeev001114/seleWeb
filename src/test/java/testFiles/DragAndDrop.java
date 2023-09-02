@@ -2,15 +2,10 @@
 
 package testFiles;
 
-        import org.openqa.selenium.WebDriver;
         import org.openqa.selenium.WebElement;
-        import org.openqa.selenium.chrome.ChromeDriver;
-        import org.openqa.selenium.chrome.ChromeOptions;
         import org.testng.annotations.BeforeClass;
         import org.testng.annotations.Test;
         import pages.BaseClass;
-
-        import java.util.concurrent.TimeUnit;
 
 public class DragAndDrop extends BaseClass {
 
@@ -23,7 +18,7 @@ public class DragAndDrop extends BaseClass {
     @Test
     public void dragAndDrop() throws InterruptedException {
 
-        clickOnElementByXPATH("//a[text()='Drag and Drop']");
+        clickOnElementByXPATH("//a[text()='Drag and Drop']",driver );
         //WebElement on which drag and drop operation needs to be performed
         WebElement fromElement = findElementByXPATH("//div[@id='column-a']");
         //WebElement to which the above object is dropped

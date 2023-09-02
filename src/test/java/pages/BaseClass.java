@@ -1,6 +1,5 @@
 package pages;
 
-import io.github.bonigarcia.wdm.WebDriverManager;
 import listeners.WebDriverListener;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -14,12 +13,10 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Reporter;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
-import org.testng.annotations.Test;
 import utility.Log;
 
 import java.time.Duration;
 import java.util.concurrent.TimeUnit;
-import java.util.logging.Logger;
 
 
 public class BaseClass {
@@ -106,7 +103,7 @@ public class BaseClass {
         WebElement webEle = driver.findElement(locator);
         return webEle;
     }
-    public static void clickOnElementByXPATH(String xpath) {
+    public static void clickOnElementByXPATH(String xpath, WebDriver driver) {
         System.out.println("in buttun click function");
 
         By locator =  By.xpath(xpath);

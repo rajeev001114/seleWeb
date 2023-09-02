@@ -1,15 +1,10 @@
 
 package testFiles;
 
-        import org.openqa.selenium.WebDriver;
         import org.openqa.selenium.WebElement;
-        import org.openqa.selenium.chrome.ChromeDriver;
-        import org.openqa.selenium.chrome.ChromeOptions;
         import org.testng.annotations.BeforeClass;
         import org.testng.annotations.Test;
         import pages.BaseClass;
-
-        import java.util.concurrent.TimeUnit;
 
 public class CheckBox extends BaseClass {
 
@@ -23,7 +18,7 @@ public class CheckBox extends BaseClass {
     public void selectCheckBox() throws InterruptedException {
 
 
-        clickOnElementByXPATH("//a[text()='Checkboxes']");
+        clickOnElementByXPATH("//a[text()='Checkboxes']", driver );
 
         waitUntillPageLoads(5);
         WebElement checkbox = findElementByXPATH("//*[@id='checkboxes']//input[2]");

@@ -4,42 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db7f0221-e356-44d6-a98c-f6e459363c65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ParameterTestSuite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Suites/ParameterSuite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Webdriver.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Webdriver.ipr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Webdriver.iws" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/listeners/WebDriverListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/listeners/tesng/TestNGListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/BaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testFiles/CheckBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testFiles/DragAndDrop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testFiles/DropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testFiles/alertsAndPopup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testFiles/keyPress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testFiles/loginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testFiles/mouseHover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testFiles/multipleWindowHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testFiles/radioButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testFiles/scroll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testNG/DataProviderNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testNG/DependsOnGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testNG/DependsOnMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testNG/ParameterWithSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utility/Log.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    <list default="true" id="db7f0221-e356-44d6-a98c-f6e459363c65" name="Changes" comment="one test listener&#10; change">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Webdriver.iws" beforeDir="false" afterPath="$PROJECT_DIR$/Webdriver.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testFiles/CheckBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testFiles/CheckBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testFiles/DragAndDrop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testFiles/DragAndDrop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testFiles/DropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testFiles/DropDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testFiles/keyPress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testFiles/keyPress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testFiles/loginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testFiles/loginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testFiles/mouseHover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testFiles/mouseHover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testFiles/scroll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testFiles/scroll.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,6 +188,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="HierarchyBrowserManager">
     <option name="SHOW_PACKAGES" value="false" />
@@ -293,7 +269,7 @@
       <recent name="C:\Users\rk312\IdeaProjects\Webdriver\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.scroll">
+  <component name="RunManager" selected="TestNG.DropDown">
     <configuration selected="false" default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -331,7 +307,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="alertsAndPopup (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DropDown" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Webdriver" />
       <extension name="coverage">
         <pattern>
@@ -340,7 +316,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="testFiles" />
-      <option name="MAIN_CLASS_NAME" value="testFiles.alertsAndPopup" />
+      <option name="MAIN_CLASS_NAME" value="testFiles.DropDown" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -348,7 +324,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="alertsAndPopup" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="alertsAndPopup (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Webdriver" />
       <extension name="coverage">
         <pattern>
@@ -401,11 +377,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.DropDown" />
         <item itemvalue="TestNG.scroll" />
         <item itemvalue="TestNG.alertsAndPopup (1)" />
         <item itemvalue="TestNG.C:/Users/rk312/IdeaProjects/Webdriver/testng.xml" />
         <item itemvalue="TestNG.radioButton" />
-        <item itemvalue="TestNG.alertsAndPopup" />
       </list>
     </recent_temporary>
   </component>
@@ -447,6 +423,55 @@
       <option name="presentableId" value="Default" />
       <updated>1693157341352</updated>
     </task>
+    <task id="LOCAL-00001" summary="2nd">
+      <option name="closed" value="true" />
+      <created>1693644682412</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693644682412</updated>
+    </task>
+    <task id="LOCAL-00002" summary="pom change">
+      <option name="closed" value="true" />
+      <created>1693649427599</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693649427599</updated>
+    </task>
+    <task id="LOCAL-00003" summary="testng&#10; change">
+      <option name="closed" value="true" />
+      <created>1693655476532</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693655476532</updated>
+    </task>
+    <task id="LOCAL-00004" summary="testng listener&#10; change">
+      <option name="closed" value="true" />
+      <created>1693655626766</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693655626766</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Webdriver listener&#10; change">
+      <option name="closed" value="true" />
+      <created>1693655769829</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1693655769829</updated>
+    </task>
+    <task id="LOCAL-00006" summary="one test listener&#10; change">
+      <option name="closed" value="true" />
+      <created>1693656295150</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1693656295150</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -511,6 +536,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2nd" />
+    <MESSAGE value="pom change" />
+    <MESSAGE value="testng&#10; change" />
+    <MESSAGE value="testng listener&#10; change" />
+    <MESSAGE value="Webdriver listener&#10; change" />
+    <MESSAGE value="one test listener&#10; change" />
+    <option name="LAST_COMMIT_MESSAGE" value="one test listener&#10; change" />
   </component>
   <component name="VssConfiguration">
     <CheckoutOptions>
