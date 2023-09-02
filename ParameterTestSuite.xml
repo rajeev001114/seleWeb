@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ParameterTestSuite" thread-count="3" >
+    <parameter name="author" value="Rajeev"  />
+    <parameter name="searchKey" value="India" />
+
+    <test name="parameter">
+        <parameter name="searchKey" value="UK" />
+        <classes>
+            <class name="testNG.ParameterWithSuite"></class>
+            <class name="testNG.DependsOnMethod"></class>
+        </classes>
+    </test>
+</suite>

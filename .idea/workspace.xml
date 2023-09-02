@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6dc64dec-94e0-4ca5-927f-1901d49dc1af" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2URbARgNF4ZWBrmeGiPq6E1A2Ye" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/rk312/IdeaProjects/Webdriver",
+    "onboarding.tips.debug.path": "C:/Users/rk312/IdeaProjects/Webdriver/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "settings.sync"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.TestSuites">
+    <configuration name="C:/Users/rk312/IdeaProjects/Webdriver/ParameterTestSuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Webdriver" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/ParameterTestSuite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/rk312/IdeaProjects/Webdriver/Suites/ParameterSuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Webdriver" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Suites/ParameterSuite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/rk312/IdeaProjects/Webdriver/Suites/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Webdriver" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Suites/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataProviderNew" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Webdriver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testNG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testNG" />
+      <option name="MAIN_CLASS_NAME" value="testNG.DataProviderNew" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParameterWithSuite" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Webdriver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testNG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testNG" />
+      <option name="MAIN_CLASS_NAME" value="testNG.ParameterWithSuite" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuites" type="TestNG">
+      <module name="Webdriver" />
+      <shortenClasspath name="NONE" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\rk312\IdeaProjects\Webdriver\test-output" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.TestSuites" />
+      <item itemvalue="TestNG.C:/Users/rk312/IdeaProjects/Webdriver/ParameterTestSuite.xml" />
+      <item itemvalue="TestNG.C:/Users/rk312/IdeaProjects/Webdriver/Suites/ParameterSuite.xml" />
+      <item itemvalue="TestNG.C:/Users/rk312/IdeaProjects/Webdriver/Suites/testng.xml" />
+      <item itemvalue="TestNG.DataProviderNew" />
+      <item itemvalue="TestNG.ParameterWithSuite" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/rk312/IdeaProjects/Webdriver/ParameterTestSuite.xml" />
+        <item itemvalue="TestNG.C:/Users/rk312/IdeaProjects/Webdriver/Suites/testng.xml" />
+        <item itemvalue="TestNG.C:/Users/rk312/IdeaProjects/Webdriver/Suites/ParameterSuite.xml" />
+        <item itemvalue="TestNG.ParameterWithSuite" />
+        <item itemvalue="TestNG.DataProviderNew" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6dc64dec-94e0-4ca5-927f-1901d49dc1af" name="Changes" comment="" />
+      <created>1692905197962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692905197962</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/testNG/DependsOnGroup.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

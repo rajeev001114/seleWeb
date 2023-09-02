@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Practice">
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+        <listener class-name="listeners.tesng.TestNGListener" />
+    </listeners>
+
+    <!--suite-files>
+        <suite-file path="ParameterTestSuite.xml"></suite-file>
+    </suite-files-->
+
+    <!--test name="Regression Test Suite"  >
+       <classes>
+           <!-class name="testFiles.alertsAndPopup"></class->
+           <class name="testFiles.radioButton"></class>
+       </classes>
+    </test-->
+    <test name="Regression Test Suite"  >
+       <classes>
+           <class name="testFiles.alertsAndPopup"></class>
+       </classes>
+    </test>
+    <packages>
+        <package name="testFiles"></package>
+        <package name="testNG"></package>
+    </packages>
+</suite><!-- Test -->
