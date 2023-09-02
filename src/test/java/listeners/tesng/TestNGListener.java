@@ -18,8 +18,9 @@ import static pages.BaseClass.driver;
 public class TestNGListener implements ITestListener {
     @Override
     public void onTestFailure(ITestResult result) {
-        try {
+       /* try {
             Log.info("on start of TestNGListener");
+
             Date d = new Date();
             String FileName = d.toString().replace(":", "_").replace(" ", "_") + ".png";
             //File screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
@@ -35,10 +36,14 @@ public class TestNGListener implements ITestListener {
             Reporter.log("<a href='" + destFile.getAbsolutePath() + "'> <img src='" + destFile.getAbsolutePath() + "' height='100' width='100'/> </a>");
 
             Log.info("<a href='" + destFile.getAbsolutePath() + "'> <img src='" + destFile.getAbsolutePath() + "' height='100' width='100'/> </a>");
+
+
+
         } catch (IOException e) {
             e.printStackTrace();
-        }
+        }*/
     }
+
     @Override
     public void onFinish(ITestContext context) {}
 
