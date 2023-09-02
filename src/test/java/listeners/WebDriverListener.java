@@ -104,6 +104,7 @@ public class WebDriverListener implements WebDriverEventListener {
     @Override
     public void afterClickOn(WebElement element, WebDriver driver) {
         Log.info("you come to join listners");
+        /*
         try {
         Date d = new Date();
         String FileName = d.toString().replace(":", "_").replace(" ", "_") + ".png";
@@ -139,6 +140,8 @@ public class WebDriverListener implements WebDriverEventListener {
         } catch (IOException e) {
             System.out.println(e.getMessage());
         }
+
+         */
     }
 
     @Override
