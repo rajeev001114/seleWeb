@@ -19,7 +19,7 @@
     </test-->
     <test name="Regression Test Suite"  >
        <classes>
-           <class name="testFiles.DropDown"></class>
+           <class name="testNG.DependsOnMethod"></class>
        </classes>
     </test>
     <!--packages>
