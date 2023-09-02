@@ -19,11 +19,11 @@
     </test-->
     <test name="Regression Test Suite"  >
        <classes>
-           <class name="testFiles.alertsAndPopup"></class>
+           <class name="testFiles.DropDown"></class>
        </classes>
     </test>
-    <packages>
+    <!--packages>
         <package name="testFiles"></package>
         <package name="testNG"></package>
-    </packages>
+    </packages-->
 </suite><!-- Test -->
