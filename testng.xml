@@ -19,7 +19,7 @@
     </test-->
     <test name="Regression Test Suite"  >
        <classes>
-           <class name="testNG.DependsOnMethod"></class>
+           <class name="testNG.DependsOnGroup"></class>
        </classes>
     </test>
     <!--packages>
