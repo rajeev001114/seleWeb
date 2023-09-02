@@ -5,6 +5,7 @@ pipeline {
     stages {
         stage('Test') {
             steps {
+		bat 'set'
                 bat "mvn -D clean test"
             }
  
