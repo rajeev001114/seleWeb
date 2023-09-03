@@ -20,6 +20,7 @@
     <test name="Regression Test Suite"  >
        <classes>
            <class name="testNG.DependsOnGroup"></class>
+           <class name="testFiles.DropDown"></class>
        </classes>
     </test>
     <!--packages>
