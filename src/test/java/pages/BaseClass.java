@@ -59,7 +59,7 @@ public class BaseClass {
         options.setExperimentalOption("useAutomationExtension", false);
         options.setExperimentalOption("excludeSwitches", new String[]{"enable-automation"});
         //options.addArguments("--incognito");
-        //System.setProperty("webdriver.chrome.driver", "lib/ChromeStandaloneSetup64.exe");
+        System.setProperty("webdriver.chrome.driver", "C:\\Users\\rk312\\Downloads\\chromedriver_win32\\chromedriver.exe");
         //options.setBrowserVersion("116");
         //WebDriverManager.chromedriver().setup();
 
