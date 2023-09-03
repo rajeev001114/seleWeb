@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db7f0221-e356-44d6-a98c-f6e459363c65" name="Changes" comment="one test listener&#10; change">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    <list default="true" id="db7f0221-e356-44d6-a98c-f6e459363c65" name="Changes" comment="chrome driver">
       <change beforePath="$PROJECT_DIR$/Webdriver.iws" beforeDir="false" afterPath="$PROJECT_DIR$/Webdriver.iws" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pages/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/BaseClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testFiles/CheckBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testFiles/CheckBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testFiles/DragAndDrop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testFiles/DragAndDrop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testFiles/DropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testFiles/DropDown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testFiles/keyPress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testFiles/keyPress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testFiles/loginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testFiles/loginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testFiles/mouseHover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testFiles/mouseHover.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testFiles/scroll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testFiles/scroll.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -269,7 +261,7 @@
       <recent name="C:\Users\rk312\IdeaProjects\Webdriver\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.DropDown">
+  <component name="RunManager" selected="TestNG.DependsOnGroup.m4">
     <configuration selected="false" default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -301,6 +293,24 @@
       <module name="Webdriver" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DependsOnGroup.m4" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Webdriver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testNG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testNG" />
+      <option name="MAIN_CLASS_NAME" value="testNG.DependsOnGroup" />
+      <option name="METHOD_NAME" value="m4" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -341,23 +351,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="radioButton" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Webdriver" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testFiles.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testFiles" />
-      <option name="MAIN_CLASS_NAME" value="testFiles.radioButton" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="scroll" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Webdriver" />
       <extension name="coverage">
@@ -377,11 +370,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.DependsOnGroup.m4" />
         <item itemvalue="TestNG.DropDown" />
         <item itemvalue="TestNG.scroll" />
         <item itemvalue="TestNG.alertsAndPopup (1)" />
         <item itemvalue="TestNG.C:/Users/rk312/IdeaProjects/Webdriver/testng.xml" />
-        <item itemvalue="TestNG.radioButton" />
       </list>
     </recent_temporary>
   </component>
@@ -471,7 +464,47 @@
       <option name="project" value="LOCAL" />
       <updated>1693656295150</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="driver change">
+      <option name="closed" value="true" />
+      <created>1693670321270</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1693670321270</updated>
+    </task>
+    <task id="LOCAL-00008" summary="tesng tests">
+      <option name="closed" value="true" />
+      <created>1693670575584</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1693670575584</updated>
+    </task>
+    <task id="LOCAL-00009" summary="tesng tests">
+      <option name="closed" value="true" />
+      <created>1693670788860</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1693670788860</updated>
+    </task>
+    <task id="LOCAL-00010" summary="tesng tests">
+      <option name="closed" value="true" />
+      <created>1693725359759</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1693725359759</updated>
+    </task>
+    <task id="LOCAL-00011" summary="chrome driver">
+      <option name="closed" value="true" />
+      <created>1693729596588</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1693729596588</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -544,7 +577,10 @@
     <MESSAGE value="testng listener&#10; change" />
     <MESSAGE value="Webdriver listener&#10; change" />
     <MESSAGE value="one test listener&#10; change" />
-    <option name="LAST_COMMIT_MESSAGE" value="one test listener&#10; change" />
+    <MESSAGE value="driver change" />
+    <MESSAGE value="tesng tests" />
+    <MESSAGE value="chrome driver" />
+    <option name="LAST_COMMIT_MESSAGE" value="chrome driver" />
   </component>
   <component name="VssConfiguration">
     <CheckoutOptions>
